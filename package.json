@@ -1,0 +1,15 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "gm": "^1.25.0",
+    "images": "^3.2.4",
+    "jimp": "^0.16.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

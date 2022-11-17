@@ -9,7 +9,7 @@ cd humpbot
 npm i
 ```
 
-and then modify settings.json and index.js variables from line 9 to your choice  
+and then modify settings.json and index.js variables from line 9 and last to your choice  
   
 i know code is terrible, i didnt have time to rewrite it
 also there are some portions of messages that are set only for my server so if you want make it actually something then modify some emoji ids etc.  
